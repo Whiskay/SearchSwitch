@@ -1,4 +1,5 @@
-# Add "Search With" Option: Search with any engine, right-click away.
+# Add "Search With" Option
+##  Search with any engine, right-click away
 
 - A simple extension to add 'Search with Google' option in the context menu even if you have some other search engine as default.
 - Adds customizable search engine options for directly searching on the selected text in your browser context menu.
