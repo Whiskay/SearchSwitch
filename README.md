@@ -4,6 +4,8 @@
 - A simple extension to add 'Search with Google' option in the context menu even if you have some other search engine as default.
 - Adds customizable search engine options for directly searching on the selected text in your browser context menu.
 
+![image](https://github.com/user-attachments/assets/1be3f75d-c3f3-4d7b-a1a8-efbe275518a0)
+
 # Branches:
 
 - [main](https://github.com/Whiskay/SearchSwitch/tree/main) -> Chromium based browsers like Chrome,Edge,Brave...
