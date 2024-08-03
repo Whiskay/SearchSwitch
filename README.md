@@ -1,14 +1,13 @@
-# Add "Search With" Option
-
-## Search with any engine, right-click away.
+# Search Switch 
+## Add "Search With" Option: Search with any engine, right-click away
 
 - A simple extension to add 'Search with Google' option in the context menu even if you have some other search engine as default.
 - Adds customizable search engine options for directly searching on the selected text in your browser context menu.
 
 # Branches:
 
-- [main](https://github.com/Whiskay/AddSearchWithOption/tree/main) -> Chromium based browsers like Chrome,Edge,Brave...
-- [firefox](https://github.com/Whiskay/AddSearchWithOption/tree/firefox) -> Firefox
+- [main](https://github.com/Whiskay/SearchSwitch/tree/main) -> Chromium based browsers like Chrome,Edge,Brave...
+- [firefox](https://github.com/Whiskay/SearchSwitch/tree/firefox) -> Firefox
 
 ## Features:
 
@@ -24,8 +23,8 @@
 
 ## Notes
 
-- If you are facing any issues or errors please create an issue <a href="https://github.com/Whiskay/AddSearchWithOption/issues">here.</a>
-- Thought of some new feature or enhancemet, please create a issue <a href="https://github.com/Whiskay/AddSearchWithOption/issues">here.</a>
+- If you are facing any issues or errors please create an issue <a href="https://github.com/Whiskay/SearchSwitch/issues">here.</a>
+- Thought of some new feature or enhancemet, please create a issue <a href="https://github.com/Whiskay/SearchSwitch/issues">here.</a>
 - Maintained by <a href="https://whiskay.dev" target="_blank">Whiskay.dev</a>
 - Email: contact@whiskay.dev
 - If you reached till here, please dont forget to star the repository.
