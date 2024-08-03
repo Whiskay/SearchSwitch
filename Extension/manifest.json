@@ -8,21 +8,29 @@
         "contextMenus",
         "storage"
     ],
+    "author": "Whiskay",
     "action": {
         "default_popup": "popup.html",
-        "default_icon": {
-            "16": "images/icon16.png",
-            "48": "images/icon48.png",
-            "128": "images/icon128.png"
-        }
+        "default_title": "Add SearchWith Option"
     },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*/*"
+            ],
+            "js": [
+                "background.js",
+                "popup.js"
+            ]
+        }
+    ],
     "icons": {
         "16": "images/icon16.png",
         "48": "images/icon48.png",
         "128": "images/icon128.png"
     },
     "background": {
-        "service_worker": "background.js"
+        "scripts": ["background.js"]
     },
     "options_page": "options.html"
 }
