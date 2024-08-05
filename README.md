@@ -42,6 +42,8 @@ also compatible with
   - Open-Sourced: You can copy and update the code for according to your needs.
   - Template: This repository can be used for creating your own extensions from scratch.
 
+## Demo: [Search Switch [Open source] [Browser extension] [Chrome] [Firefox] - YouTube](https://www.youtube.com/watch?v=JuSP-f1nBdA)
+
 ## Notes
 
 - If you are facing any issues or errors please create an issue <a href="https://github.com/Whiskay/SearchSwitch/issues">here.</a>
