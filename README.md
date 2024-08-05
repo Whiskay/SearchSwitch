@@ -8,7 +8,7 @@
 
 
 [link-chrome]: https://chromewebstore.google.com/detail/search-switch/beokknkebpiigackckbaapoiohbgflac 'Version published on Chrome Web Store'
-[link-firefox]: https://addons.mozilla.org/en-US/firefox/addon/searchswitch/ 'Version published on Mozilla Add-ons'
+[link-firefox]: https://addons.mozilla.org/en-US/firefox/addon/search-switch/ 'Version published on Mozilla Add-ons'
 
 ## Install: Available on [Chrome][link-chrome] and [Firefox][link-firefox]
 
@@ -20,7 +20,7 @@ also compatible with
 [<img src="https://raw.githubusercontent.com/alrra/browser-logos/90fdf03c/src/brave/brave.svg" width="24" alt="Brave" valign="middle">][link-chrome]
 
 [<img src="https://raw.githubusercontent.com/alrra/browser-logos/90fdf03c/src/firefox/firefox.svg" width="48" alt="Firefox" valign="middle">][link-firefox] 
-[<img valign="middle" src="https://img.shields.io/amo/v/searchswitch.svg?label=%20">][link-firefox] 
+[<img valign="middle" src="https://img.shields.io/amo/v/search-switch.svg?label=%20">][link-firefox] 
 
 
 ## Branches:
