@@ -37,7 +37,7 @@ chrome.storage.onChanged.addListener(function (changes, namespace) {
 chrome.contextMenus.onClicked.addListener((info, tab) => {
     const selectedText = info.selectionText;
     let searchUrl = '';
-    switch (selectedSearchEngine.toLowerCase()) {
+    switch (selectedSearchEngine && selectedSearchEngine.toLowerCase()) {
         case "google":
             searchUrl = `https://www.google.com/search?q=${encodeURIComponent(selectedText)}`;
             break;
